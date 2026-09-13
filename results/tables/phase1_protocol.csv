@@ -1,0 +1,23 @@
+Parameter,Value(s),Evidence source,Confidence,Notes
+State,Selected feature subset,Directly specified by paper,Exact,State space is the power set of the feature set.
+Action,One unselected feature,Directly specified by paper,Exact,Action adds a feature not already in the subset.
+State transition,Sequential addition of one feature,Directly specified by paper,Exact,No feature removal is described.
+Reward,accuracy(next state) - accuracy(current state),Directly specified by paper,Exact,Evaluation protocol remains unresolved.
+TD update,V(S_t) <- V(S_t) + alpha * [r_(t+1) + gamma * V(S_(t+1)) - V(S_t)],Directly specified by paper,Exact,Not implemented in Phase 1 preparation.
+AOR,Average feature reward with incremental mean,Directly specified by paper,Partially specified,Exact operational linkage between reward and state value remains unresolved.
+Exploration,epsilon-greedy,Directly specified by paper,Exact,Paper describes exploration/exploitation using AOR values.
+Epsilon experiment values,"0.3; 0.4; 0.5; 0.6",Inferred from Figure 2,Exact,Exact as a figure reading; not an official hidden default. Do not replace with FSRLearning defaults.
+Episode horizon shown,Approximately 100 episodes,Inferred from Figure 2,Partially specified,Exact loop count is unresolved.
+Alpha,Unresolved; candidate 0.5,FSRLearning only,Not specified,Use 0.5 only as a sensitivity-analysis candidate.
+Gamma,Unresolved; candidate 0.70,FSRLearning only,Not specified,Use 0.70 only as a sensitivity-analysis candidate.
+Episodes/iterations,Approximately 100 working horizon; exact count unresolved,Figure inference plus reconstruction assumption,Partially specified,Do not present 100 as an official paper setting.
+Initial state,Random feature subset per episode,Directly specified by paper,Partially specified,Distribution and seed are unresolved; FSRLearning empty default is not substituted.
+Stopping criterion,All features is terminal; additional criterion unresolved,Paper plus reconstruction boundary,Partially specified,FSRLearning worsen rule is not adopted as official.
+SVM kernel,Gaussian/RBF,Directly specified by paper,Partially specified,The Gaussian/RBF family is specified; library and numeric kernel settings are unresolved.
+SVM C,Unresolved,Our reconstruction assumption,Not specified,Must remain a sensitivity-analysis parameter.
+SVM gamma,Unresolved,Our reconstruction assumption,Not specified,Gaussian wording does not specify numeric gamma.
+Feature scaling,Unresolved,Our reconstruction assumption,Not specified,No scaling authorized until evidence is found.
+Train/test split,Unresolved,Our reconstruction assumption,Not specified,Current 80/20 baseline is only a sanity check.
+Random seed,Unresolved,Our reconstruction assumption,Not specified,Record seeds without claiming paper provenance.
+WPBC feature universe,Option A or B unresolved,UCI documentation plus paper discrepancy,Partially specified,See wpbc_replication_options.md; select neither automatically.
+WPBC missing values,No treatment selected,UCI documentation plus local raw inspection,Partially specified,Four markers must not be automatically dropped or imputed.

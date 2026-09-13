@@ -1,0 +1,4 @@
+dataset,number_of_features,number_of_samples,accuracy,runtime_seconds,total_runtime_seconds,train_samples,test_samples,test_size,random_state,svm_kernel,svm_C,svm_gamma,dropped_rows_for_missing_values
+Australian Credit Approval,14,690,0.6884057971014492,0.013124400051310658,0.01815989997703582,552,138,0.2,42,rbf,1.0,scale,0
+Wisconsin Breast Cancer Prognostic (WPBC),32,194,0.7692307692307693,0.0019801000016741455,0.0036693000001832843,155,39,0.2,42,rbf,1.0,scale,4
+Connectionist Bench Sonar,60,208,0.8095238095238095,0.001948899996932596,0.003552400041371584,166,42,0.2,42,rbf,1.0,scale,0

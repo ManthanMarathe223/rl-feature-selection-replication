@@ -1,0 +1,578 @@
+dataset,section,item,value,details
+Australian Credit Approval,dataset,rows,690,
+Australian Credit Approval,dataset,columns,15,
+Australian Credit Approval,dataset,feature_count,14,
+Australian Credit Approval,dataset,target_column,target,
+Australian Credit Approval,dataset,metadata_columns,None,
+Australian Credit Approval,dataset,duplicate_rows,0,
+Australian Credit Approval,dataset,missing_values_total,0,
+Australian Credit Approval,column_role,feature_1,feature,
+Australian Credit Approval,data_type,feature_1,int64,
+Australian Credit Approval,missing_values,feature_1,0,
+Australian Credit Approval,numeric_range,feature_1,0,role=feature; minimum
+Australian Credit Approval,numeric_range,feature_1,1,role=feature; maximum
+Australian Credit Approval,column_role,feature_2,feature,
+Australian Credit Approval,data_type,feature_2,float64,
+Australian Credit Approval,missing_values,feature_2,0,
+Australian Credit Approval,numeric_range,feature_2,13.75,role=feature; minimum
+Australian Credit Approval,numeric_range,feature_2,80.25,role=feature; maximum
+Australian Credit Approval,column_role,feature_3,feature,
+Australian Credit Approval,data_type,feature_3,float64,
+Australian Credit Approval,missing_values,feature_3,0,
+Australian Credit Approval,numeric_range,feature_3,0.0,role=feature; minimum
+Australian Credit Approval,numeric_range,feature_3,28.0,role=feature; maximum
+Australian Credit Approval,column_role,feature_4,feature,
+Australian Credit Approval,data_type,feature_4,int64,
+Australian Credit Approval,missing_values,feature_4,0,
+Australian Credit Approval,numeric_range,feature_4,1,role=feature; minimum
+Australian Credit Approval,numeric_range,feature_4,3,role=feature; maximum
+Australian Credit Approval,column_role,feature_5,feature,
+Australian Credit Approval,data_type,feature_5,int64,
+Australian Credit Approval,missing_values,feature_5,0,
+Australian Credit Approval,numeric_range,feature_5,1,role=feature; minimum
+Australian Credit Approval,numeric_range,feature_5,14,role=feature; maximum
+Australian Credit Approval,column_role,feature_6,feature,
+Australian Credit Approval,data_type,feature_6,int64,
+Australian Credit Approval,missing_values,feature_6,0,
+Australian Credit Approval,numeric_range,feature_6,1,role=feature; minimum
+Australian Credit Approval,numeric_range,feature_6,9,role=feature; maximum
+Australian Credit Approval,column_role,feature_7,feature,
+Australian Credit Approval,data_type,feature_7,float64,
+Australian Credit Approval,missing_values,feature_7,0,
+Australian Credit Approval,numeric_range,feature_7,0.0,role=feature; minimum
+Australian Credit Approval,numeric_range,feature_7,28.5,role=feature; maximum
+Australian Credit Approval,column_role,feature_8,feature,
+Australian Credit Approval,data_type,feature_8,int64,
+Australian Credit Approval,missing_values,feature_8,0,
+Australian Credit Approval,numeric_range,feature_8,0,role=feature; minimum
+Australian Credit Approval,numeric_range,feature_8,1,role=feature; maximum
+Australian Credit Approval,column_role,feature_9,feature,
+Australian Credit Approval,data_type,feature_9,int64,
+Australian Credit Approval,missing_values,feature_9,0,
+Australian Credit Approval,numeric_range,feature_9,0,role=feature; minimum
+Australian Credit Approval,numeric_range,feature_9,1,role=feature; maximum
+Australian Credit Approval,column_role,feature_10,feature,
+Australian Credit Approval,data_type,feature_10,int64,
+Australian Credit Approval,missing_values,feature_10,0,
+Australian Credit Approval,numeric_range,feature_10,0,role=feature; minimum
+Australian Credit Approval,numeric_range,feature_10,67,role=feature; maximum
+Australian Credit Approval,column_role,feature_11,feature,
+Australian Credit Approval,data_type,feature_11,int64,
+Australian Credit Approval,missing_values,feature_11,0,
+Australian Credit Approval,numeric_range,feature_11,0,role=feature; minimum
+Australian Credit Approval,numeric_range,feature_11,1,role=feature; maximum
+Australian Credit Approval,column_role,feature_12,feature,
+Australian Credit Approval,data_type,feature_12,int64,
+Australian Credit Approval,missing_values,feature_12,0,
+Australian Credit Approval,numeric_range,feature_12,1,role=feature; minimum
+Australian Credit Approval,numeric_range,feature_12,3,role=feature; maximum
+Australian Credit Approval,column_role,feature_13,feature,
+Australian Credit Approval,data_type,feature_13,int64,
+Australian Credit Approval,missing_values,feature_13,0,
+Australian Credit Approval,numeric_range,feature_13,0,role=feature; minimum
+Australian Credit Approval,numeric_range,feature_13,2000,role=feature; maximum
+Australian Credit Approval,column_role,feature_14,feature,
+Australian Credit Approval,data_type,feature_14,int64,
+Australian Credit Approval,missing_values,feature_14,0,
+Australian Credit Approval,numeric_range,feature_14,1,role=feature; minimum
+Australian Credit Approval,numeric_range,feature_14,100001,role=feature; maximum
+Australian Credit Approval,column_role,target,target,
+Australian Credit Approval,data_type,target,int64,
+Australian Credit Approval,missing_values,target,0,
+Australian Credit Approval,numeric_range,target,0,role=target; minimum
+Australian Credit Approval,numeric_range,target,1,role=target; maximum
+Australian Credit Approval,class_distribution,0,383,target values
+Australian Credit Approval,class_distribution,1,307,target values
+Wisconsin Breast Cancer Prognostic (WPBC),dataset,rows,198,
+Wisconsin Breast Cancer Prognostic (WPBC),dataset,columns,35,
+Wisconsin Breast Cancer Prognostic (WPBC),dataset,feature_count,32,
+Wisconsin Breast Cancer Prognostic (WPBC),dataset,target_column,target,
+Wisconsin Breast Cancer Prognostic (WPBC),dataset,metadata_columns,"identifier, time",
+Wisconsin Breast Cancer Prognostic (WPBC),dataset,duplicate_rows,0,
+Wisconsin Breast Cancer Prognostic (WPBC),dataset,missing_values_total,4,
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,identifier,metadata,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,identifier,str,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,identifier,0,
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,target,target,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,target,str,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,target,0,
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,time,metadata,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,time,int64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,time,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,time,1,role=metadata; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,time,125,role=metadata; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_1,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_1,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_1,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_1,10.95,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_1,27.22,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_2,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_2,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_2,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_2,10.38,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_2,39.28,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_3,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_3,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_3,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_3,71.9,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_3,182.1,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_4,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_4,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_4,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_4,361.6,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_4,2250.0,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_5,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_5,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_5,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_5,0.07497,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_5,0.1447,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_6,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_6,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_6,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_6,0.04605,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_6,0.3114,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_7,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_7,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_7,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_7,0.02398,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_7,0.4268,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_8,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_8,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_8,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_8,0.02031,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_8,0.2012,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_9,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_9,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_9,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_9,0.1308,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_9,0.304,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_10,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_10,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_10,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_10,0.05025,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_10,0.09744,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_11,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_11,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_11,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_11,0.1938,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_11,1.819,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_12,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_12,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_12,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_12,0.3621,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_12,3.503,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_13,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_13,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_13,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_13,1.153,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_13,13.28,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_14,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_14,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_14,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_14,13.99,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_14,316.0,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_15,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_15,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_15,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_15,0.002667,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_15,0.03113,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_16,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_16,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_16,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_16,0.007347,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_16,0.1354,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_17,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_17,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_17,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_17,0.01094,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_17,0.1438,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_18,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_18,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_18,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_18,0.005174,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_18,0.03927,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_19,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_19,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_19,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_19,0.007882,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_19,0.06041,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_20,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_20,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_20,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_20,0.001087,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_20,0.01256,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_21,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_21,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_21,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_21,12.84,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_21,35.13,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_22,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_22,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_22,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_22,16.67,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_22,49.54,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_23,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_23,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_23,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_23,85.1,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_23,232.2,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_24,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_24,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_24,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_24,508.1,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_24,3903.0,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_25,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_25,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_25,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_25,0.08191,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_25,0.2226,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_26,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_26,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_26,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_26,0.05131,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_26,1.058,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_27,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_27,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_27,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_27,0.02398,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_27,1.17,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_28,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_28,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_28,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_28,0.02899,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_28,0.2903,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_29,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_29,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_29,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_29,0.1565,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_29,0.6638,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_30,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_30,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_30,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_30,0.05504,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_30,0.2075,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_31,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_31,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_31,0,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_31,0.4,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_31,10.0,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),column_role,feature_32,feature,
+Wisconsin Breast Cancer Prognostic (WPBC),data_type,feature_32,float64,
+Wisconsin Breast Cancer Prognostic (WPBC),missing_values,feature_32,4,
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_32,0.0,role=feature; minimum
+Wisconsin Breast Cancer Prognostic (WPBC),numeric_range,feature_32,27.0,role=feature; maximum
+Wisconsin Breast Cancer Prognostic (WPBC),class_distribution,N,151,target values
+Wisconsin Breast Cancer Prognostic (WPBC),class_distribution,R,47,target values
+Wisconsin Breast Cancer Prognostic (WPBC),raw_missing_marker,feature_32,4,"literal '?' found on 1-based raw rows: 7, 29, 86, 197"
+Connectionist Bench Sonar,dataset,rows,208,
+Connectionist Bench Sonar,dataset,columns,61,
+Connectionist Bench Sonar,dataset,feature_count,60,
+Connectionist Bench Sonar,dataset,target_column,target,
+Connectionist Bench Sonar,dataset,metadata_columns,None,
+Connectionist Bench Sonar,dataset,duplicate_rows,0,
+Connectionist Bench Sonar,dataset,missing_values_total,0,
+Connectionist Bench Sonar,column_role,feature_1,feature,
+Connectionist Bench Sonar,data_type,feature_1,float64,
+Connectionist Bench Sonar,missing_values,feature_1,0,
+Connectionist Bench Sonar,numeric_range,feature_1,0.0015,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_1,0.1371,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_2,feature,
+Connectionist Bench Sonar,data_type,feature_2,float64,
+Connectionist Bench Sonar,missing_values,feature_2,0,
+Connectionist Bench Sonar,numeric_range,feature_2,0.0006,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_2,0.2339,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_3,feature,
+Connectionist Bench Sonar,data_type,feature_3,float64,
+Connectionist Bench Sonar,missing_values,feature_3,0,
+Connectionist Bench Sonar,numeric_range,feature_3,0.0015,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_3,0.3059,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_4,feature,
+Connectionist Bench Sonar,data_type,feature_4,float64,
+Connectionist Bench Sonar,missing_values,feature_4,0,
+Connectionist Bench Sonar,numeric_range,feature_4,0.0058,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_4,0.4264,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_5,feature,
+Connectionist Bench Sonar,data_type,feature_5,float64,
+Connectionist Bench Sonar,missing_values,feature_5,0,
+Connectionist Bench Sonar,numeric_range,feature_5,0.0067,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_5,0.401,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_6,feature,
+Connectionist Bench Sonar,data_type,feature_6,float64,
+Connectionist Bench Sonar,missing_values,feature_6,0,
+Connectionist Bench Sonar,numeric_range,feature_6,0.0102,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_6,0.3823,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_7,feature,
+Connectionist Bench Sonar,data_type,feature_7,float64,
+Connectionist Bench Sonar,missing_values,feature_7,0,
+Connectionist Bench Sonar,numeric_range,feature_7,0.0033,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_7,0.3729,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_8,feature,
+Connectionist Bench Sonar,data_type,feature_8,float64,
+Connectionist Bench Sonar,missing_values,feature_8,0,
+Connectionist Bench Sonar,numeric_range,feature_8,0.0055,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_8,0.459,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_9,feature,
+Connectionist Bench Sonar,data_type,feature_9,float64,
+Connectionist Bench Sonar,missing_values,feature_9,0,
+Connectionist Bench Sonar,numeric_range,feature_9,0.0075,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_9,0.6828,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_10,feature,
+Connectionist Bench Sonar,data_type,feature_10,float64,
+Connectionist Bench Sonar,missing_values,feature_10,0,
+Connectionist Bench Sonar,numeric_range,feature_10,0.0113,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_10,0.7106,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_11,feature,
+Connectionist Bench Sonar,data_type,feature_11,float64,
+Connectionist Bench Sonar,missing_values,feature_11,0,
+Connectionist Bench Sonar,numeric_range,feature_11,0.0289,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_11,0.7342,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_12,feature,
+Connectionist Bench Sonar,data_type,feature_12,float64,
+Connectionist Bench Sonar,missing_values,feature_12,0,
+Connectionist Bench Sonar,numeric_range,feature_12,0.0236,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_12,0.706,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_13,feature,
+Connectionist Bench Sonar,data_type,feature_13,float64,
+Connectionist Bench Sonar,missing_values,feature_13,0,
+Connectionist Bench Sonar,numeric_range,feature_13,0.0184,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_13,0.7131,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_14,feature,
+Connectionist Bench Sonar,data_type,feature_14,float64,
+Connectionist Bench Sonar,missing_values,feature_14,0,
+Connectionist Bench Sonar,numeric_range,feature_14,0.0273,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_14,0.997,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_15,feature,
+Connectionist Bench Sonar,data_type,feature_15,float64,
+Connectionist Bench Sonar,missing_values,feature_15,0,
+Connectionist Bench Sonar,numeric_range,feature_15,0.0031,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_15,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_16,feature,
+Connectionist Bench Sonar,data_type,feature_16,float64,
+Connectionist Bench Sonar,missing_values,feature_16,0,
+Connectionist Bench Sonar,numeric_range,feature_16,0.0162,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_16,0.9988,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_17,feature,
+Connectionist Bench Sonar,data_type,feature_17,float64,
+Connectionist Bench Sonar,missing_values,feature_17,0,
+Connectionist Bench Sonar,numeric_range,feature_17,0.0349,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_17,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_18,feature,
+Connectionist Bench Sonar,data_type,feature_18,float64,
+Connectionist Bench Sonar,missing_values,feature_18,0,
+Connectionist Bench Sonar,numeric_range,feature_18,0.0375,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_18,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_19,feature,
+Connectionist Bench Sonar,data_type,feature_19,float64,
+Connectionist Bench Sonar,missing_values,feature_19,0,
+Connectionist Bench Sonar,numeric_range,feature_19,0.0494,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_19,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_20,feature,
+Connectionist Bench Sonar,data_type,feature_20,float64,
+Connectionist Bench Sonar,missing_values,feature_20,0,
+Connectionist Bench Sonar,numeric_range,feature_20,0.0656,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_20,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_21,feature,
+Connectionist Bench Sonar,data_type,feature_21,float64,
+Connectionist Bench Sonar,missing_values,feature_21,0,
+Connectionist Bench Sonar,numeric_range,feature_21,0.0512,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_21,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_22,feature,
+Connectionist Bench Sonar,data_type,feature_22,float64,
+Connectionist Bench Sonar,missing_values,feature_22,0,
+Connectionist Bench Sonar,numeric_range,feature_22,0.0219,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_22,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_23,feature,
+Connectionist Bench Sonar,data_type,feature_23,float64,
+Connectionist Bench Sonar,missing_values,feature_23,0,
+Connectionist Bench Sonar,numeric_range,feature_23,0.0563,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_23,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_24,feature,
+Connectionist Bench Sonar,data_type,feature_24,float64,
+Connectionist Bench Sonar,missing_values,feature_24,0,
+Connectionist Bench Sonar,numeric_range,feature_24,0.0239,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_24,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_25,feature,
+Connectionist Bench Sonar,data_type,feature_25,float64,
+Connectionist Bench Sonar,missing_values,feature_25,0,
+Connectionist Bench Sonar,numeric_range,feature_25,0.024,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_25,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_26,feature,
+Connectionist Bench Sonar,data_type,feature_26,float64,
+Connectionist Bench Sonar,missing_values,feature_26,0,
+Connectionist Bench Sonar,numeric_range,feature_26,0.0921,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_26,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_27,feature,
+Connectionist Bench Sonar,data_type,feature_27,float64,
+Connectionist Bench Sonar,missing_values,feature_27,0,
+Connectionist Bench Sonar,numeric_range,feature_27,0.0481,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_27,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_28,feature,
+Connectionist Bench Sonar,data_type,feature_28,float64,
+Connectionist Bench Sonar,missing_values,feature_28,0,
+Connectionist Bench Sonar,numeric_range,feature_28,0.0284,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_28,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_29,feature,
+Connectionist Bench Sonar,data_type,feature_29,float64,
+Connectionist Bench Sonar,missing_values,feature_29,0,
+Connectionist Bench Sonar,numeric_range,feature_29,0.0144,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_29,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_30,feature,
+Connectionist Bench Sonar,data_type,feature_30,float64,
+Connectionist Bench Sonar,missing_values,feature_30,0,
+Connectionist Bench Sonar,numeric_range,feature_30,0.0613,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_30,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_31,feature,
+Connectionist Bench Sonar,data_type,feature_31,float64,
+Connectionist Bench Sonar,missing_values,feature_31,0,
+Connectionist Bench Sonar,numeric_range,feature_31,0.0482,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_31,0.9657,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_32,feature,
+Connectionist Bench Sonar,data_type,feature_32,float64,
+Connectionist Bench Sonar,missing_values,feature_32,0,
+Connectionist Bench Sonar,numeric_range,feature_32,0.0404,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_32,0.9306,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_33,feature,
+Connectionist Bench Sonar,data_type,feature_33,float64,
+Connectionist Bench Sonar,missing_values,feature_33,0,
+Connectionist Bench Sonar,numeric_range,feature_33,0.0477,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_33,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_34,feature,
+Connectionist Bench Sonar,data_type,feature_34,float64,
+Connectionist Bench Sonar,missing_values,feature_34,0,
+Connectionist Bench Sonar,numeric_range,feature_34,0.0212,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_34,0.9647,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_35,feature,
+Connectionist Bench Sonar,data_type,feature_35,float64,
+Connectionist Bench Sonar,missing_values,feature_35,0,
+Connectionist Bench Sonar,numeric_range,feature_35,0.0223,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_35,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_36,feature,
+Connectionist Bench Sonar,data_type,feature_36,float64,
+Connectionist Bench Sonar,missing_values,feature_36,0,
+Connectionist Bench Sonar,numeric_range,feature_36,0.008,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_36,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_37,feature,
+Connectionist Bench Sonar,data_type,feature_37,float64,
+Connectionist Bench Sonar,missing_values,feature_37,0,
+Connectionist Bench Sonar,numeric_range,feature_37,0.0351,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_37,0.9497,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_38,feature,
+Connectionist Bench Sonar,data_type,feature_38,float64,
+Connectionist Bench Sonar,missing_values,feature_38,0,
+Connectionist Bench Sonar,numeric_range,feature_38,0.0383,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_38,1.0,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_39,feature,
+Connectionist Bench Sonar,data_type,feature_39,float64,
+Connectionist Bench Sonar,missing_values,feature_39,0,
+Connectionist Bench Sonar,numeric_range,feature_39,0.0371,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_39,0.9857,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_40,feature,
+Connectionist Bench Sonar,data_type,feature_40,float64,
+Connectionist Bench Sonar,missing_values,feature_40,0,
+Connectionist Bench Sonar,numeric_range,feature_40,0.0117,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_40,0.9297,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_41,feature,
+Connectionist Bench Sonar,data_type,feature_41,float64,
+Connectionist Bench Sonar,missing_values,feature_41,0,
+Connectionist Bench Sonar,numeric_range,feature_41,0.036,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_41,0.8995,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_42,feature,
+Connectionist Bench Sonar,data_type,feature_42,float64,
+Connectionist Bench Sonar,missing_values,feature_42,0,
+Connectionist Bench Sonar,numeric_range,feature_42,0.0056,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_42,0.8246,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_43,feature,
+Connectionist Bench Sonar,data_type,feature_43,float64,
+Connectionist Bench Sonar,missing_values,feature_43,0,
+Connectionist Bench Sonar,numeric_range,feature_43,0.0,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_43,0.7733,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_44,feature,
+Connectionist Bench Sonar,data_type,feature_44,float64,
+Connectionist Bench Sonar,missing_values,feature_44,0,
+Connectionist Bench Sonar,numeric_range,feature_44,0.0,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_44,0.7762,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_45,feature,
+Connectionist Bench Sonar,data_type,feature_45,float64,
+Connectionist Bench Sonar,missing_values,feature_45,0,
+Connectionist Bench Sonar,numeric_range,feature_45,0.0,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_45,0.7034,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_46,feature,
+Connectionist Bench Sonar,data_type,feature_46,float64,
+Connectionist Bench Sonar,missing_values,feature_46,0,
+Connectionist Bench Sonar,numeric_range,feature_46,0.0,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_46,0.7292,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_47,feature,
+Connectionist Bench Sonar,data_type,feature_47,float64,
+Connectionist Bench Sonar,missing_values,feature_47,0,
+Connectionist Bench Sonar,numeric_range,feature_47,0.0,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_47,0.5522,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_48,feature,
+Connectionist Bench Sonar,data_type,feature_48,float64,
+Connectionist Bench Sonar,missing_values,feature_48,0,
+Connectionist Bench Sonar,numeric_range,feature_48,0.0,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_48,0.3339,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_49,feature,
+Connectionist Bench Sonar,data_type,feature_49,float64,
+Connectionist Bench Sonar,missing_values,feature_49,0,
+Connectionist Bench Sonar,numeric_range,feature_49,0.0,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_49,0.1981,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_50,feature,
+Connectionist Bench Sonar,data_type,feature_50,float64,
+Connectionist Bench Sonar,missing_values,feature_50,0,
+Connectionist Bench Sonar,numeric_range,feature_50,0.0,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_50,0.0825,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_51,feature,
+Connectionist Bench Sonar,data_type,feature_51,float64,
+Connectionist Bench Sonar,missing_values,feature_51,0,
+Connectionist Bench Sonar,numeric_range,feature_51,0.0,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_51,0.1004,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_52,feature,
+Connectionist Bench Sonar,data_type,feature_52,float64,
+Connectionist Bench Sonar,missing_values,feature_52,0,
+Connectionist Bench Sonar,numeric_range,feature_52,0.0008,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_52,0.0709,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_53,feature,
+Connectionist Bench Sonar,data_type,feature_53,float64,
+Connectionist Bench Sonar,missing_values,feature_53,0,
+Connectionist Bench Sonar,numeric_range,feature_53,0.0005,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_53,0.039,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_54,feature,
+Connectionist Bench Sonar,data_type,feature_54,float64,
+Connectionist Bench Sonar,missing_values,feature_54,0,
+Connectionist Bench Sonar,numeric_range,feature_54,0.001,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_54,0.0352,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_55,feature,
+Connectionist Bench Sonar,data_type,feature_55,float64,
+Connectionist Bench Sonar,missing_values,feature_55,0,
+Connectionist Bench Sonar,numeric_range,feature_55,0.0006,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_55,0.0447,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_56,feature,
+Connectionist Bench Sonar,data_type,feature_56,float64,
+Connectionist Bench Sonar,missing_values,feature_56,0,
+Connectionist Bench Sonar,numeric_range,feature_56,0.0004,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_56,0.0394,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_57,feature,
+Connectionist Bench Sonar,data_type,feature_57,float64,
+Connectionist Bench Sonar,missing_values,feature_57,0,
+Connectionist Bench Sonar,numeric_range,feature_57,0.0003,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_57,0.0355,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_58,feature,
+Connectionist Bench Sonar,data_type,feature_58,float64,
+Connectionist Bench Sonar,missing_values,feature_58,0,
+Connectionist Bench Sonar,numeric_range,feature_58,0.0003,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_58,0.044,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_59,feature,
+Connectionist Bench Sonar,data_type,feature_59,float64,
+Connectionist Bench Sonar,missing_values,feature_59,0,
+Connectionist Bench Sonar,numeric_range,feature_59,0.0001,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_59,0.0364,role=feature; maximum
+Connectionist Bench Sonar,column_role,feature_60,feature,
+Connectionist Bench Sonar,data_type,feature_60,float64,
+Connectionist Bench Sonar,missing_values,feature_60,0,
+Connectionist Bench Sonar,numeric_range,feature_60,0.0006,role=feature; minimum
+Connectionist Bench Sonar,numeric_range,feature_60,0.0439,role=feature; maximum
+Connectionist Bench Sonar,column_role,target,target,
+Connectionist Bench Sonar,data_type,target,str,
+Connectionist Bench Sonar,missing_values,target,0,
+Connectionist Bench Sonar,class_distribution,M,111,target values
+Connectionist Bench Sonar,class_distribution,R,97,target values

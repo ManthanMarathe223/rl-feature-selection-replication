@@ -20,3 +20,8 @@ results/tables/**/*
 !results/raw/**/.gitkeep
 !results/figures/**/.gitkeep
 !results/tables/**/.gitkeep
+!results/tables/dataset_inspection.csv
+!results/tables/svm_baseline.csv
+!results/tables/replication_parameters.csv
+!results/tables/wpbc_structure_investigation.csv
+!results/tables/phase1_protocol.csv
