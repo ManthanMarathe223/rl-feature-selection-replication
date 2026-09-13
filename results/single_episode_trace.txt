@@ -1,0 +1,51 @@
+SINGLE EPISODE TRACE
+Dataset: Australian Credit Approval
+Number of features: 4
+Random seed: 2021
+Initial state: [2]
+
+Step 1 (exploration):
+  Current state: [2]
+  Action: 1
+  Next state: [1, 2]
+  Current accuracy: 0.6521739130434783
+  Next accuracy: 0.6304347826086957
+  Reward: -0.021739130434782594
+  Old TD value: 0.0
+  Next-state TD value: 0.0
+  TD error: -0.021739130434782594
+  New TD value: -0.010869565217391297
+  Selected feature AOR: -0.021739130434782594
+  Selected feature count: 1
+
+Step 2 (exploitation):
+  Current state: [1, 2]
+  Action: 0
+  Next state: [0, 1, 2]
+  Current accuracy: 0.6304347826086957
+  Next accuracy: 0.6159420289855072
+  Reward: -0.01449275362318847
+  Old TD value: 0.0
+  Next-state TD value: 0.0
+  TD error: -0.01449275362318847
+  New TD value: -0.007246376811594235
+  Selected feature AOR: -0.01449275362318847
+  Selected feature count: 1
+
+Step 3 (exploitation):
+  Current state: [0, 1, 2]
+  Action: 3
+  Next state: [0, 1, 2, 3]
+  Current accuracy: 0.6159420289855072
+  Next accuracy: 0.6231884057971014
+  Reward: 0.007246376811594235
+  Old TD value: 0.0
+  Next-state TD value: 0.0
+  TD error: 0.007246376811594235
+  New TD value: 0.0036231884057971175
+  Selected feature AOR: 0.007246376811594235
+  Selected feature count: 1
+
+Final state: [0, 1, 2, 3]
+Number of steps: 3
+Termination reason: all_features_selected
