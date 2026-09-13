@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.ipynb_checkpoints/
+.pytest_cache/
+.vscode/
+
+# Local datasets and generated outputs
+data/raw/**/*
+data/processed/**/*
+results/raw/**/*
+results/figures/**/*
+results/tables/**/*
+
+# Keep directory placeholders tracked
+!data/raw/**/.gitkeep
+!data/processed/**/.gitkeep
+!results/raw/**/.gitkeep
+!results/figures/**/.gitkeep
+!results/tables/**/.gitkeep

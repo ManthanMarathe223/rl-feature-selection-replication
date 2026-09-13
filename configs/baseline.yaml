@@ -1,0 +1,29 @@
+# Baseline configuration scaffold for the original TD(0) replication.
+# null means the paper or current evidence does not specify a value yet.
+dataset:
+  name: null
+  raw_path: null
+  processed_path: null
+
+preprocessing:
+  train_test_split: null
+  random_seed: null
+  encode_features: null
+  handle_missing_values: null
+  scale_features: null
+
+svm:
+  kernel: null
+  hyperparameters: null
+
+reinforcement_learning:
+  alpha: null
+  gamma: null
+  epsilon: null
+  episodes: null
+  stopping_condition: null
+
+outputs:
+  directory: results/
+  save_selected_features: true
+  save_metrics: true
