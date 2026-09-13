@@ -23,6 +23,12 @@ reinforcement_learning:
   episodes: null
   stopping_condition: null
 
+# Project-level reconstruction placeholders, not values reported by the paper.
+# Keep null until an experiment explicitly selects them.
+td:
+  alpha: null
+  gamma: null
+
 outputs:
   directory: results/
   save_selected_features: true
