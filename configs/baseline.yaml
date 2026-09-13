@@ -29,6 +29,11 @@ td:
   alpha: null
   gamma: null
 
+# Figure-inferred candidates are documented in docs/policy_protocol.md;
+# null remains the unresolved project configuration value.
+policy:
+  epsilon: null
+
 outputs:
   directory: results/
   save_selected_features: true
